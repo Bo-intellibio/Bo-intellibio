@@ -1,0 +1,53 @@
+{
+  "project_information": {
+    "project_title": "Enter Project Title or Acronym",
+    "research_area": "Enter Research Area/Field of Study (e.g., Life Sciences)",
+    "project_overview": "Enter a brief 2-3 sentence summary of the research project",
+    "research_goals": [
+      "Enter primary research question or goal 1",
+      "Enter primary research question or goal 2",
+      "Enter primary research question or goal 3"
+    ]
+  },
+  "uploads_and_documents": {
+    "has_existing_documents": "true/false",
+    "uploaded_files": []
+  },
+  "collaboration_and_partners": {
+    "is_collaboration": "true/false",
+    "partners": [
+      {
+        "name": "Enter partner's name",
+        "organization": "Enter partner's organization",
+        "role": "Enter partner's role in the project"
+      }
+    ]
+  },
+  "grant_writing_challenges": {
+    "areas_of_struggle": {
+      "type": "multiple_choice_or_open_ended",
+      "options": [
+        "Structure",
+        "Writing clarity",
+        "Defining impacts",
+        "Budgeting",
+        "Research objectives",
+        "Other"
+      ],
+      "open_ended_text": "Enter text if other"
+    }
+  },
+  "additional_resources": {
+    "resources_needed": {
+      "type": "multiple_choice_or_open_ended",
+      "options": [
+        "Templates",
+        "Examples of successful grants",
+        "Writing tips",
+        "Budget planning resources",
+        "Other"
+      ],
+      "open_ended_text": "Enter text if other"
+    }
+  }
+}
